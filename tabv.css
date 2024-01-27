@@ -1,0 +1,290 @@
+@media  (min-width:577px) and (max-width:768px){
+    body {
+       
+       
+        }
+    header{
+       
+        width: 100%;
+           
+    }
+
+    .logo-signin
+    {      padding: 39px;
+        justify-content: space-between;
+        padding: 7;
+   
+  
+
+    }
+    .logo{
+        height: 25px;
+
+    }
+    .signin
+    {
+        margin-left: 290px;
+    }
+    
+    .signin select{
+        height: 32px;
+        width: 126px;
+        font-size: 16px;
+       
+    }
+    .signin1{
+        height: 32px;
+        width: 84px;
+        font-size: 12px;
+        font-weight: 600;
+        border-radius: 2px
+    }
+    .first{
+        height: 70vh;
+       
+     
+    }
+    .fir_row1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        
+    }
+    .header-content p {
+        font-size: 26px;
+        font-weight: 400;
+        color: white;
+    }
+
+    .header-content{
+        text-align: center;
+        padding-top: 40%;
+        
+    }
+    .header-content h1 {
+        font-size: 38px;
+        font-weight: 800;
+        color: white;
+        line-height: 88px;
+    }
+    .header-content h3 {
+        font-size: 25px;
+        font-weight: 400;
+        padding: 28px;
+    }
+ 
+ 
+    .block1
+    {
+        
+
+    }
+    .row1
+    {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 164px 0px;
+    }
+
+
+    .text-col1{
+    width: 83%;
+    margin-left: 38px;
+    text-align: center;
+
+    }
+    .img-col1 img
+    {
+        
+        padding-left: 15px;
+        
+    
+    }
+    .text-col1 h2
+    {
+ 
+    }
+    .text-col1 p
+    {
+      
+    }
+    .block2
+    {
+  
+    
+    }
+    .row2
+    {
+    display: flex;
+   
+    flex-direction: column-reverse;
+    align-items: center;
+    /* padding: 120px 0px; */
+    }
+    .img-col2
+    {
+    width: 50%;
+    margin-top: 12%;
+    margin-left: -190px;
+
+    }
+
+    .img-col2 img
+    {
+        padding-left: 15px;
+    }
+    .text-col2
+    {
+    margin-top:0;
+    width: 95%;
+    margin-left: 38px;
+    text-align: center;
+    }
+    .text-col2 h2
+    {
+   
+    }
+    .text-col2 p
+    {
+   
+    }
+
+    .block3
+    {
+        
+        
+    }
+    .row3
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 30px 0px;
+    }
+    .text-col3
+    {
+        margin-top:0;
+        width: 95%;
+        margin-left: -143px;
+        text-align: center;
+    
+    }
+    .img-col3 img
+    {
+       height: 330px;
+    }
+    .text-col3 h2
+    {
+        font-size: 33px;
+    }
+    .text-col3 p
+    {   font-size: 15px;
+        padding-top: 9px;
+    }
+    
+    .img-col3
+    {
+        width: 50%;
+        
+    }
+    .block4
+    {
+       
+        
+    }
+    .row4
+    {
+        display: flex;
+        flex-direction: column-reverse;
+        text-align: center;
+        padding: 30px 0px;
+    }
+    .text-col4
+    {
+        width: 85%;
+        padding-left: 50px;
+    }
+    
+    
+    .img-col4 img
+    {
+
+        margin-top: -113px;
+        margin-left: 88px;
+
+    }
+    
+    .text-col4 h2
+    {
+        font-size: 33px;
+    }
+    .text-col4 p
+    {
+        font-size: 15px;
+        text-align: center;
+        /* padding-top: 26px; */
+    }
+    .img-col4 {
+        width: 100%;
+    }
+    .block5
+    {
+     
+        
+    }
+    .feature5 h1{
+        text-align: center;
+        font-size: 100px;
+        font-weight: 900;
+        padding-top: 96px;
+    
+    }
+    .accordian
+    {
+        padding: 34px 10px;
+        width: 100%;
+     
+        
+    }
+ 
+    .accordian :hover{
+        background-color: #3d3a3a;
+    }
+
+    .block6
+    {
+        
+         
+    }
+    .block61
+    {
+       
+        padding: 10px 0 0 30px;
+      height: auto;
+    }
+        
+       
+    
+    .attributes
+    {
+        display:grid;
+         grid-template-columns: auto auto;
+
+        
+        
+    }
+
+    .ph-no{
+        cursor: pointer;
+    }
+    .attributes ul{
+        flex-direction: column;
+    }
+    .lang{
+     margin-top: 58px;
+   
+    }
+    
+
+} 
